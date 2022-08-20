@@ -1,6 +1,5 @@
 # Something is missing here
-require_relative './plant'
-
+require_relative './pla'
 class Garden
   attr_accessor :name
 
